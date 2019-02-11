@@ -3,6 +3,7 @@
 - Undervolting AVR
 - Storing Private Key in EEPROM of AVR
 - Update of Private Key over serial connection
+- Make Adafruit_GFX and Adafruit_SSD1306 smaller (remove some drawing functions, etc...)
 
 ## Side ideas
 - Autodestruction function (overwrite flash + eeprom?)
